@@ -1,5 +1,5 @@
 package Java10;
-class Caaa              // 定義Caaa類別
+class Caaa   
 {
    public int num1;
    public int num2;
