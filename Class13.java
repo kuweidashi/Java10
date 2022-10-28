@@ -22,7 +22,7 @@ class Cbbb extends Caaa
 {
    public Cbbb(int a,int b)
    {
-      super(a,b);
+      super();
    }
    public void set_num(int a,int b)
    {
