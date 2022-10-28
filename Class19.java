@@ -22,3 +22,4 @@ public class Class19
       CRectangle rect = new CRectangle(2, 6);
       System.out.println(rect);
    }
+}
